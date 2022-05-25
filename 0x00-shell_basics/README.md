@@ -1,2 +1,2 @@
-display the current directory in long format
-also display hidden files in current directory
+Create a script that creates a directory
+named my_first_directory in the /tmp/ directory
