@@ -1,2 +1,2 @@
-script that prints the type of the file
-in the /tmp directory
+Create a symbolic link to /bin/ls
+created in the current working directory
