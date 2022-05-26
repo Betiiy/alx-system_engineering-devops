@@ -1,2 +1,2 @@
-a script that prints all the groups the current user is part of
-shell permission task 2
+shell permission task 3
+a script that changes the owner of the file hello to the user betty
