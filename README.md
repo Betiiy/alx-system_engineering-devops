@@ -1,2 +1,2 @@
-shell permission task 4
-a script that creates an empty file called hello
+shell permission task 5
+a script that adds execute permission to the owner of the file hello
