@@ -1,2 +1,2 @@
-shell permission task 5
-a script that adds execute permission to the owner of the file hello
+shell permission task 6
+a script that adds execute permission to the owner 
