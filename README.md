@@ -1,2 +1,2 @@
-shell permission task 17
-a script that will play the StarWars IV episode in the terminal.
+shell permission task 0
+a script that switches the current user to the user betty
