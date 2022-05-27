@@ -1,2 +1,2 @@
- shell permidssion Task 12
-a script that creates a directory called my_dir
+shell permission task 13
+a script that changes the group owner to school for the file hello
