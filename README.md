@@ -1,2 +1,2 @@
- shell opermission task 15
-a script that changes the owner and the group owner of _hello
+shell permission task 16
+a script that changes the owner of the file hello to betty
