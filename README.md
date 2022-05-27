@@ -1,2 +1,2 @@
-shell permission task 13
-a script that changes the group owner to school for the file hello
+shell permission task 0
+a script that switches the current user to the user betty
