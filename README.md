@@ -1,2 +1,2 @@
-shell permission task 7
-script that adds execution permission to the owner
+shell permission task 8
+a script that sets the permission to the file hello
