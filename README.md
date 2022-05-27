@@ -1,2 +1,2 @@
-shell permission task 6
-a script that adds execute permission to the owner 
+shell permission task 7
+script that adds execution permission to the owner
