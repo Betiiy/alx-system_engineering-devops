@@ -1,2 +1,2 @@
-shell permission task 0
-a script that switches the current user to the user betty
+shell basices task 17
+a script that creates the directories 
