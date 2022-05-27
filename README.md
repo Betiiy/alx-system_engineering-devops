@@ -1,2 +1,2 @@
-shell permission task 11
-a script that adds execute permission to all subdirectories
+ shell permidssion Task 12
+a script that creates a directory called my_dir
