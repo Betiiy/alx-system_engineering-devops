@@ -1,2 +1,2 @@
-shell permission task 14
-a script that changes the owner to vincent
+ shell opermission task 15
+a script that changes the owner and the group owner of _hello
