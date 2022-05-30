@@ -1,2 +1,2 @@
-shell redirection task 6
-display the third line
+shell redirection task 7
+a file containing the text Best School
