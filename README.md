@@ -1,2 +1,2 @@
-shell redirection task 1
-shell redirection print a confudsed smilly face
+shell redirection task 2
+Display the content of the /etc/passwd file.
