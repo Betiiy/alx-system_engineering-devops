@@ -1,2 +1,2 @@
-shell redirection task 8
-a script that writes into the file ls_cwd_content
+shell permission task 9
+a script that duplicates the last line of the file iacta
