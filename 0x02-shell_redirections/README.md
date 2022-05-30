@@ -1,2 +1,2 @@
-task o
-to print hellow world
+task 1
+print confused smily face
