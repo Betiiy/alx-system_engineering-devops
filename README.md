@@ -1,2 +1,2 @@
-shell regdirection task 4
-display the last 10 lines
+shell redirection task 5
+display the first 10 lines
