@@ -1,2 +1,2 @@
-shell redirection task 5
-display the first 10 lines
+shell redirection task 6
+display the third line
