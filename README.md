@@ -1,2 +1,2 @@
-shell redirection task 0
-a script that prints “Hello, World”
+shell redirection task 1
+shell redirection print a confudsed smilly face
