@@ -1,2 +1,2 @@
-shell redirection task 3
-display the contents of two d files
+shell regdirection task 4
+display the last 10 lines
