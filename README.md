@@ -1,2 +1,2 @@
-shell redirection task 7
-a file containing the text Best School
+shell redirection task 8
+a script that writes into the file ls_cwd_content
