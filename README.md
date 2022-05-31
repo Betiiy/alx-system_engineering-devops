@@ -1,2 +1,2 @@
-shell rediredction tsak 16
-shell redirection whats next 
+shell redirection task 17;
+files that contain bin
