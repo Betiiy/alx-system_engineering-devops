@@ -1,2 +1,2 @@
-shell variable expansion task 0
-creat an alias
+shell variable expanision task 1
+display hello user
