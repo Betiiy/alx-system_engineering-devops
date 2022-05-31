@@ -1,2 +1,2 @@
-shell redirection task 17;
-files that contain bin
+shell redirection task 18
+all lines of the file /etc/ssh/sshd_config
