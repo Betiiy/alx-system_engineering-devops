@@ -1,2 +1,2 @@
-shell variable task 3
-count directories in PATH
+shell b variables task 4
+ the forth task 
