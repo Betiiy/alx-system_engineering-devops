@@ -1,2 +1,2 @@
-shell variable task 6
-create local variable
+shell variables task 7
+shell variables create global variable
