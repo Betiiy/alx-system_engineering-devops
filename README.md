@@ -1,2 +1,2 @@
-shell variable expanision task 1
-display hello user
+she;ll variable task 2
+add /action to the path
