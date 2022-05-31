@@ -1,2 +1,2 @@
-shell variable task 11
-binary to decimal
+shell variable task 12
+combination 
