@@ -1,2 +1,2 @@
-shell redirection task 14
-find lines containing root
+shell redirection task 15
+counting the word bin 
