@@ -1,2 +1,2 @@
-shell redirection task 10
-no more js files
+shell redirection task 11
+ all dierectries
