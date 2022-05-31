@@ -1,2 +1,2 @@
-shell variable task 5
-local variable
+shell variable task 6
+create local variable
