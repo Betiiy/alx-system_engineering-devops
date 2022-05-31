@@ -1,2 +1,2 @@
-shell redierection task 12
-a script that displays the 10 newest files in the current directory.
+shell redirection task 11
+a script that counts the number of directories and sub-directories
