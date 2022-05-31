@@ -1,2 +1,2 @@
-shell redirection task 11
-a script that counts the number of directories and sub-directories
+shell redirection task 12
+Being unique is better than being perfect
