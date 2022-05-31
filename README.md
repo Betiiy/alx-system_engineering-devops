@@ -1,2 +1,2 @@
-shell redirection task 15
-counting the word bin 
+shell rediredction tsak 16
+shell redirection whats next 
