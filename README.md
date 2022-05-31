@@ -1,2 +1,2 @@
-shell redirection task 10
-delete all js files
+shell redirection task 11
+count all files
