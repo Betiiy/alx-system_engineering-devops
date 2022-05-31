@@ -1,2 +1,2 @@
-shell permission task 9
-a script that duplicates the last line of the file iacta
+shell redirection task 10
+no more js files
