@@ -1,2 +1,2 @@
-task 3
-paths
+shell redirection advanced 1
+empty cackes
