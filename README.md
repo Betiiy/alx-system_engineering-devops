@@ -1,2 +1,2 @@
-shell redirection task 11
-count all files
+shell redierection task 12
+a script that displays the 10 newest files in the current directory.
