@@ -1,2 +1,2 @@
-shell variablr task 10
-love exponent breath
+shell variable task 11
+binary to decimal
