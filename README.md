@@ -1,2 +1,2 @@
-shell redirection advanced 4
-the biggest fan
+shell variables advanced
+water and stir
